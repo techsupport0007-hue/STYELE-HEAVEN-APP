@@ -70,19 +70,19 @@ export default function ContactPage() {
           <div className="mt-10 space-y-6 text-sm">
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-muted">Support</p>
-              <a href="mailto:help@styleheaven.in" className="mt-1 block text-ink hover:text-emerald hover:underline">help@styleheaven.in</a>
+              <a href="mailto:support@styleheaven.in" className="mt-1 block text-ink hover:text-emerald hover:underline">support@styleheaven.in</a>
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-muted">Merchant enquiries</p>
-              <a href="mailto:merchants@styleheaven.in" className="mt-1 block text-ink hover:text-emerald hover:underline">merchants@styleheaven.in</a>
+              <a href="mailto:support@styleheavenin" className="mt-1 block text-ink hover:text-emerald hover:underline">support@styleheavenin</a>
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-muted">Studio</p>
-              <p className="mt-1 text-ink">2nd Floor, DLF Cyber Hub, Gurugram, Haryana 122002, India</p>
+              <p className="mt-1 text-ink">FF 61,PLOT 271, K BLOCK,ANSAL FORTUN ARCADE,NOIDA,SEC 18, NOIDA UP 201301</p>
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-muted">Phone</p>
-              <p className="mt-1 text-ink">+91 98765 43210</p>
+              <p className="mt-1 text-ink">+91 8527879317</p>
             </div>
           </div>
         </div>
