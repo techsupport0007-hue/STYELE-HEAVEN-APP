@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Weekend Sand Wallet">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <path d="M 260 320 A 90 110 0 0 1 440 320" fill="none" stroke="rgb(133,115,88)" stroke-width="14"/>
+    <rect x="190" y="320" width="320" height="280" rx="24" fill="#cdb188" stroke="rgb(133,115,88)" stroke-width="6"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Weekend Sand Wallet</text>
+</svg>

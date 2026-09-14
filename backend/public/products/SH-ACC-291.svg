@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Classic Navy Sneakers">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <path d="M 160 500
+             C 160 430 230 400 290 400
+             L 410 400
+             C 460 400 480 430 540 460
+             C 580 480 580 520 530 520
+             L 160 520 Z"
+          fill="#1F2A44" stroke="rgb(20,27,44)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 290 400 L 290 330 L 390 330 L 410 400" fill="none" stroke="rgb(20,27,44)" stroke-width="6"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Classic Navy Sneakers</text>
+</svg>

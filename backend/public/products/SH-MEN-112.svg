@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Modern Charcoal Trousers">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <rect x="210" y="200" width="280" height="90" rx="10" fill="#36393f" stroke="rgb(35,37,40)" stroke-width="6"/>
+    <polygon points="210,290 330,290 340,650 240,650" fill="#36393f" stroke="rgb(35,37,40)" stroke-width="6" stroke-linejoin="round"/>
+    <polygon points="490,290 370,290 360,650 460,650" fill="#36393f" stroke="rgb(35,37,40)" stroke-width="6" stroke-linejoin="round"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Modern Charcoal Trousers</text>
+</svg>

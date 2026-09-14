@@ -1,0 +1,6126 @@
+[
+  {
+    "title": "Linen-Blend Casual Shirt",
+    "uniqueCode": "SH-MEN-005",
+    "category": "Shirts",
+    "mainCategory": "Men",
+    "description": "A breathable linen-cotton blend shirt built for warm-weather everyday wear.",
+    "fabric": "55% Linen, 45% Cotton",
+    "price": 1699,
+    "offerPrice": 1279,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue",
+      "White"
+    ],
+    "badge": "NEW",
+    "stockCount": 24,
+    "rating": 4.3,
+    "reviewCount": 58
+  },
+  {
+    "title": "Charcoal Checkered Flannel Coat",
+    "uniqueCode": "SH-MEN-008",
+    "category": "Coats",
+    "mainCategory": "Men",
+    "description": "A heavyweight checkered overcoat for layering through winter.",
+    "fabric": "80% Wool, 20% Nylon",
+    "price": 2799,
+    "offerPrice": 2379,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Grey"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 12,
+    "rating": 4.6,
+    "reviewCount": 121,
+    "isDeal": true
+  },
+  {
+    "title": "Rust Printed Resort Shirt",
+    "uniqueCode": "SH-MEN-012",
+    "category": "Shirts",
+    "mainCategory": "Men",
+    "description": "Relaxed-fit resort shirt in a warm rust print, made for travel days.",
+    "fabric": "100% Rayon",
+    "price": 1899,
+    "offerPrice": 1519,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.1,
+    "reviewCount": 34
+  },
+  {
+    "title": "Olive Formal White Poplin Shirt",
+    "uniqueCode": "SH-MEN-014",
+    "category": "Shirts",
+    "mainCategory": "Men",
+    "description": "Crisp poplin formal shirt with a tailored, structured collar.",
+    "fabric": "100% Cotton Poplin",
+    "price": 1299,
+    "offerPrice": 979,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "White"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 40,
+    "rating": 4.4,
+    "reviewCount": 76,
+    "isDeal": true
+  },
+  {
+    "title": "Denim Utility Shirt",
+    "uniqueCode": "SH-MEN-015",
+    "category": "Shirts",
+    "mainCategory": "Men",
+    "description": "A sturdy denim shirt with utility pockets, built to be worn open or buttoned.",
+    "fabric": "100% Cotton Denim",
+    "price": 3199,
+    "offerPrice": 2559,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "IndigoBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 18,
+    "rating": 4.5,
+    "reviewCount": 92
+  },
+  {
+    "title": "Charcoal Denim Utility Shirt",
+    "uniqueCode": "SH-MEN-016",
+    "category": "Shirts",
+    "mainCategory": "Men",
+    "description": "The charcoal edit of our utility shirt — same fit, deeper tone.",
+    "fabric": "100% Cotton Denim",
+    "price": 2799,
+    "offerPrice": 2099,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": "NEW",
+    "stockCount": 22,
+    "rating": 4.2,
+    "reviewCount": 41
+  },
+  {
+    "title": "Floral Wrap Midi Dress",
+    "uniqueCode": "SH-WMN-021",
+    "category": "Dresses",
+    "mainCategory": "Women",
+    "description": "A flowing wrap midi dress in a hand-drawn floral print.",
+    "fabric": "100% Rayon Crepe",
+    "price": 2499,
+    "offerPrice": 1874,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Floral"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 143,
+    "isDeal": true
+  },
+  {
+    "title": "Structured Blazer Co-ord",
+    "uniqueCode": "SH-WMN-026",
+    "category": "Co-ords",
+    "mainCategory": "Women",
+    "description": "A tailored blazer and trouser co-ord set for work-to-evening dressing.",
+    "fabric": "65% Polyester, 35% Viscose",
+    "price": 3499,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4,
+    "reviewCount": 12
+  },
+  {
+    "title": "Kids Weekend Co-ord Set",
+    "uniqueCode": "SH-KID-031",
+    "category": "Co-ords",
+    "mainCategory": "Kids",
+    "description": "Soft cotton co-ord for weekend play — machine washable and colourfast.",
+    "fabric": "100% Cotton",
+    "price": 1299,
+    "offerPrice": 974,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "SkyBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 39,
+    "isDeal": true
+  },
+  {
+    "title": "Flyknit Performance Sneakers",
+    "uniqueCode": "SH-ACC-045",
+    "category": "Footwear",
+    "mainCategory": "Accessories",
+    "description": "Lightweight knit sneakers with responsive cushioning for all-day wear.",
+    "fabric": "Flyknit Textile Upper",
+    "price": 1999,
+    "offerPrice": 1199,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 15,
+    "rating": 4.1,
+    "reviewCount": 428,
+    "isDeal": true
+  },
+  {
+    "title": "Classic Navy Shirt",
+    "uniqueCode": "SH-MEN-101",
+    "category": "Shirt",
+    "mainCategory": "Men",
+    "description": "A classic shirt in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 5,
+    "rating": 3.6,
+    "reviewCount": 5,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal T-Shirt",
+    "uniqueCode": "SH-MEN-102",
+    "category": "T-Shirt",
+    "mainCategory": "Men",
+    "description": "A modern t-shirt in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 936,
+    "offerPrice": 636,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 6,
+    "rating": 3.7,
+    "reviewCount": 8,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Jacket",
+    "uniqueCode": "SH-MEN-103",
+    "category": "Jacket",
+    "mainCategory": "Men",
+    "description": "A relaxed jacket in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1073,
+    "offerPrice": 815,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 7,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Trousers",
+    "uniqueCode": "SH-MEN-104",
+    "category": "Trousers",
+    "mainCategory": "Men",
+    "description": "A slim-fit trousers in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 8,
+    "rating": 3.9,
+    "reviewCount": 14,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Sweatshirt",
+    "uniqueCode": "SH-MEN-105",
+    "category": "Sweatshirt",
+    "mainCategory": "Men",
+    "description": "A everyday sweatshirt in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1347,
+    "offerPrice": 808,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 9,
+    "rating": 4,
+    "reviewCount": 17,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Kurta",
+    "uniqueCode": "SH-MEN-106",
+    "category": "Kurta",
+    "mainCategory": "Men",
+    "description": "A weekend kurta in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1484,
+    "offerPrice": 1009,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4.1,
+    "reviewCount": 20,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Shorts",
+    "uniqueCode": "SH-MEN-107",
+    "category": "Shorts",
+    "mainCategory": "Men",
+    "description": "A studio shorts in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1621,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 11,
+    "rating": 4.2,
+    "reviewCount": 23,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Blazer",
+    "uniqueCode": "SH-MEN-108",
+    "category": "Blazer",
+    "mainCategory": "Men",
+    "description": "A heritage blazer in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1758,
+    "offerPrice": 1477,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 12,
+    "rating": 4.3,
+    "reviewCount": 26,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Shirt",
+    "uniqueCode": "SH-MEN-109",
+    "category": "Shirt",
+    "mainCategory": "Men",
+    "description": "A urban shirt in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1895,
+    "offerPrice": 1137,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 13,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush T-Shirt",
+    "uniqueCode": "SH-MEN-110",
+    "category": "T-Shirt",
+    "mainCategory": "Men",
+    "description": "A essential t-shirt in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2032,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 14,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Jacket",
+    "uniqueCode": "SH-MEN-111",
+    "category": "Jacket",
+    "mainCategory": "Men",
+    "description": "A classic jacket in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2169,
+    "offerPrice": 1648,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 15,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Trousers",
+    "uniqueCode": "SH-MEN-112",
+    "category": "Trousers",
+    "mainCategory": "Men",
+    "description": "A modern trousers in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 2306,
+    "offerPrice": 1937,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Sweatshirt",
+    "uniqueCode": "SH-MEN-113",
+    "category": "Sweatshirt",
+    "mainCategory": "Men",
+    "description": "A relaxed sweatshirt in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 2443,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 17,
+    "rating": 4.8,
+    "reviewCount": 41,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Kurta",
+    "uniqueCode": "SH-MEN-114",
+    "category": "Kurta",
+    "mainCategory": "Men",
+    "description": "A slim-fit kurta in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 2580,
+    "offerPrice": 1754,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 18,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Shorts",
+    "uniqueCode": "SH-MEN-115",
+    "category": "Shorts",
+    "mainCategory": "Men",
+    "description": "A everyday shorts in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 2717,
+    "offerPrice": 2065,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 19,
+    "rating": 3.6,
+    "reviewCount": 47,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Blazer",
+    "uniqueCode": "SH-MEN-116",
+    "category": "Blazer",
+    "mainCategory": "Men",
+    "description": "A weekend blazer in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2854,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 20,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Shirt",
+    "uniqueCode": "SH-MEN-117",
+    "category": "Shirt",
+    "mainCategory": "Men",
+    "description": "A studio shirt in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2991,
+    "offerPrice": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 21,
+    "rating": 3.8,
+    "reviewCount": 53,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon T-Shirt",
+    "uniqueCode": "SH-MEN-118",
+    "category": "T-Shirt",
+    "mainCategory": "Men",
+    "description": "A heritage t-shirt in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3128,
+    "offerPrice": 2127,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 22,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Jacket",
+    "uniqueCode": "SH-MEN-119",
+    "category": "Jacket",
+    "mainCategory": "Men",
+    "description": "A urban jacket in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 3265,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 23,
+    "rating": 4,
+    "reviewCount": 59,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Trousers",
+    "uniqueCode": "SH-MEN-120",
+    "category": "Trousers",
+    "mainCategory": "Men",
+    "description": "A essential trousers in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 3402,
+    "offerPrice": 2858,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 24,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Sweatshirt",
+    "uniqueCode": "SH-MEN-121",
+    "category": "Sweatshirt",
+    "mainCategory": "Men",
+    "description": "A classic sweatshirt in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 3539,
+    "offerPrice": 2123,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 25,
+    "rating": 4.2,
+    "reviewCount": 65,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Kurta",
+    "uniqueCode": "SH-MEN-122",
+    "category": "Kurta",
+    "mainCategory": "Men",
+    "description": "A modern kurta in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 3676,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 26,
+    "rating": 4.3,
+    "reviewCount": 68,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Shorts",
+    "uniqueCode": "SH-MEN-123",
+    "category": "Shorts",
+    "mainCategory": "Men",
+    "description": "A relaxed shorts in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 3813,
+    "offerPrice": 2898,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 27,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Blazer",
+    "uniqueCode": "SH-MEN-124",
+    "category": "Blazer",
+    "mainCategory": "Men",
+    "description": "A slim-fit blazer in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3950,
+    "offerPrice": 3318,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Shirt",
+    "uniqueCode": "SH-MEN-125",
+    "category": "Shirt",
+    "mainCategory": "Men",
+    "description": "A everyday shirt in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4087,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 29,
+    "rating": 4.6,
+    "reviewCount": 77,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand T-Shirt",
+    "uniqueCode": "SH-MEN-126",
+    "category": "T-Shirt",
+    "mainCategory": "Men",
+    "description": "A weekend t-shirt in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 4224,
+    "offerPrice": 2872,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Jacket",
+    "uniqueCode": "SH-MEN-127",
+    "category": "Jacket",
+    "mainCategory": "Men",
+    "description": "A studio jacket in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 4361,
+    "offerPrice": 3314,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 31,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Trousers",
+    "uniqueCode": "SH-MEN-128",
+    "category": "Trousers",
+    "mainCategory": "Men",
+    "description": "A heritage trousers in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 4498,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 32,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Sweatshirt",
+    "uniqueCode": "SH-MEN-129",
+    "category": "Sweatshirt",
+    "mainCategory": "Men",
+    "description": "A urban sweatshirt in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 4635,
+    "offerPrice": 2781,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 33,
+    "rating": 3.6,
+    "reviewCount": 89,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Kurta",
+    "uniqueCode": "SH-MEN-130",
+    "category": "Kurta",
+    "mainCategory": "Men",
+    "description": "A essential kurta in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 4772,
+    "offerPrice": 3245,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 34,
+    "rating": 3.7,
+    "reviewCount": 92,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Shorts",
+    "uniqueCode": "SH-MEN-131",
+    "category": "Shorts",
+    "mainCategory": "Men",
+    "description": "A classic shorts in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4909,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 35,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Blazer",
+    "uniqueCode": "SH-MEN-132",
+    "category": "Blazer",
+    "mainCategory": "Men",
+    "description": "A modern blazer in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 846,
+    "offerPrice": 711,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 36,
+    "rating": 3.9,
+    "reviewCount": 98,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Shirt",
+    "uniqueCode": "SH-MEN-133",
+    "category": "Shirt",
+    "mainCategory": "Men",
+    "description": "A relaxed shirt in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 983,
+    "offerPrice": 590,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 37,
+    "rating": 4,
+    "reviewCount": 101,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory T-Shirt",
+    "uniqueCode": "SH-MEN-134",
+    "category": "T-Shirt",
+    "mainCategory": "Men",
+    "description": "A slim-fit t-shirt in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 38,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Jacket",
+    "uniqueCode": "SH-MEN-135",
+    "category": "Jacket",
+    "mainCategory": "Men",
+    "description": "A everyday jacket in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1257,
+    "offerPrice": 955,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 39,
+    "rating": 4.2,
+    "reviewCount": 107,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Trousers",
+    "uniqueCode": "SH-MEN-136",
+    "category": "Trousers",
+    "mainCategory": "Men",
+    "description": "A weekend trousers in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1394,
+    "offerPrice": 1171,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 40,
+    "rating": 4.3,
+    "reviewCount": 110,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Sweatshirt",
+    "uniqueCode": "SH-MEN-137",
+    "category": "Sweatshirt",
+    "mainCategory": "Men",
+    "description": "A studio sweatshirt in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1531,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 41,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Kurta",
+    "uniqueCode": "SH-MEN-138",
+    "category": "Kurta",
+    "mainCategory": "Men",
+    "description": "A heritage kurta in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1668,
+    "offerPrice": 1134,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 42,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Shorts",
+    "uniqueCode": "SH-MEN-139",
+    "category": "Shorts",
+    "mainCategory": "Men",
+    "description": "A urban shorts in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1805,
+    "offerPrice": 1372,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 43,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Blazer",
+    "uniqueCode": "SH-MEN-140",
+    "category": "Blazer",
+    "mainCategory": "Men",
+    "description": "A essential blazer in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1942,
+    "images": [
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559127452-829071a09516?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 44,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Dress",
+    "uniqueCode": "SH-WMN-141",
+    "category": "Dress",
+    "mainCategory": "Women",
+    "description": "A classic dress in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 5,
+    "rating": 3.6,
+    "reviewCount": 5,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Top",
+    "uniqueCode": "SH-WMN-142",
+    "category": "Top",
+    "mainCategory": "Women",
+    "description": "A modern top in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 936,
+    "offerPrice": 636,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 6,
+    "rating": 3.7,
+    "reviewCount": 8,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Kurti",
+    "uniqueCode": "SH-WMN-143",
+    "category": "Kurti",
+    "mainCategory": "Women",
+    "description": "A relaxed kurti in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1073,
+    "offerPrice": 815,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 7,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Saree",
+    "uniqueCode": "SH-WMN-144",
+    "category": "Saree",
+    "mainCategory": "Women",
+    "description": "A slim-fit saree in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 8,
+    "rating": 3.9,
+    "reviewCount": 14,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Palazzo",
+    "uniqueCode": "SH-WMN-145",
+    "category": "Palazzo",
+    "mainCategory": "Women",
+    "description": "A everyday palazzo in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1347,
+    "offerPrice": 808,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 9,
+    "rating": 4,
+    "reviewCount": 17,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Jumpsuit",
+    "uniqueCode": "SH-WMN-146",
+    "category": "Jumpsuit",
+    "mainCategory": "Women",
+    "description": "A weekend jumpsuit in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1484,
+    "offerPrice": 1009,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4.1,
+    "reviewCount": 20,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Skirt",
+    "uniqueCode": "SH-WMN-147",
+    "category": "Skirt",
+    "mainCategory": "Women",
+    "description": "A studio skirt in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1621,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 11,
+    "rating": 4.2,
+    "reviewCount": 23,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Cardigan",
+    "uniqueCode": "SH-WMN-148",
+    "category": "Cardigan",
+    "mainCategory": "Women",
+    "description": "A heritage cardigan in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1758,
+    "offerPrice": 1477,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 12,
+    "rating": 4.3,
+    "reviewCount": 26,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Dress",
+    "uniqueCode": "SH-WMN-149",
+    "category": "Dress",
+    "mainCategory": "Women",
+    "description": "A urban dress in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1895,
+    "offerPrice": 1137,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 13,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Top",
+    "uniqueCode": "SH-WMN-150",
+    "category": "Top",
+    "mainCategory": "Women",
+    "description": "A essential top in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2032,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 14,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Kurti",
+    "uniqueCode": "SH-WMN-151",
+    "category": "Kurti",
+    "mainCategory": "Women",
+    "description": "A classic kurti in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2169,
+    "offerPrice": 1648,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 15,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Saree",
+    "uniqueCode": "SH-WMN-152",
+    "category": "Saree",
+    "mainCategory": "Women",
+    "description": "A modern saree in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 2306,
+    "offerPrice": 1937,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Palazzo",
+    "uniqueCode": "SH-WMN-153",
+    "category": "Palazzo",
+    "mainCategory": "Women",
+    "description": "A relaxed palazzo in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 2443,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 17,
+    "rating": 4.8,
+    "reviewCount": 41,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Jumpsuit",
+    "uniqueCode": "SH-WMN-154",
+    "category": "Jumpsuit",
+    "mainCategory": "Women",
+    "description": "A slim-fit jumpsuit in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 2580,
+    "offerPrice": 1754,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 18,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Skirt",
+    "uniqueCode": "SH-WMN-155",
+    "category": "Skirt",
+    "mainCategory": "Women",
+    "description": "A everyday skirt in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 2717,
+    "offerPrice": 2065,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 19,
+    "rating": 3.6,
+    "reviewCount": 47,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Cardigan",
+    "uniqueCode": "SH-WMN-156",
+    "category": "Cardigan",
+    "mainCategory": "Women",
+    "description": "A weekend cardigan in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2854,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 20,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Dress",
+    "uniqueCode": "SH-WMN-157",
+    "category": "Dress",
+    "mainCategory": "Women",
+    "description": "A studio dress in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2991,
+    "offerPrice": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 21,
+    "rating": 3.8,
+    "reviewCount": 53,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Top",
+    "uniqueCode": "SH-WMN-158",
+    "category": "Top",
+    "mainCategory": "Women",
+    "description": "A heritage top in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3128,
+    "offerPrice": 2127,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 22,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Kurti",
+    "uniqueCode": "SH-WMN-159",
+    "category": "Kurti",
+    "mainCategory": "Women",
+    "description": "A urban kurti in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 3265,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 23,
+    "rating": 4,
+    "reviewCount": 59,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Saree",
+    "uniqueCode": "SH-WMN-160",
+    "category": "Saree",
+    "mainCategory": "Women",
+    "description": "A essential saree in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 3402,
+    "offerPrice": 2858,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 24,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Palazzo",
+    "uniqueCode": "SH-WMN-161",
+    "category": "Palazzo",
+    "mainCategory": "Women",
+    "description": "A classic palazzo in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 3539,
+    "offerPrice": 2123,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 25,
+    "rating": 4.2,
+    "reviewCount": 65,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Jumpsuit",
+    "uniqueCode": "SH-WMN-162",
+    "category": "Jumpsuit",
+    "mainCategory": "Women",
+    "description": "A modern jumpsuit in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 3676,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 26,
+    "rating": 4.3,
+    "reviewCount": 68,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Skirt",
+    "uniqueCode": "SH-WMN-163",
+    "category": "Skirt",
+    "mainCategory": "Women",
+    "description": "A relaxed skirt in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 3813,
+    "offerPrice": 2898,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 27,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Cardigan",
+    "uniqueCode": "SH-WMN-164",
+    "category": "Cardigan",
+    "mainCategory": "Women",
+    "description": "A slim-fit cardigan in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3950,
+    "offerPrice": 3318,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Dress",
+    "uniqueCode": "SH-WMN-165",
+    "category": "Dress",
+    "mainCategory": "Women",
+    "description": "A everyday dress in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4087,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 29,
+    "rating": 4.6,
+    "reviewCount": 77,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Top",
+    "uniqueCode": "SH-WMN-166",
+    "category": "Top",
+    "mainCategory": "Women",
+    "description": "A weekend top in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 4224,
+    "offerPrice": 2872,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Kurti",
+    "uniqueCode": "SH-WMN-167",
+    "category": "Kurti",
+    "mainCategory": "Women",
+    "description": "A studio kurti in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 4361,
+    "offerPrice": 3314,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 31,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Saree",
+    "uniqueCode": "SH-WMN-168",
+    "category": "Saree",
+    "mainCategory": "Women",
+    "description": "A heritage saree in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 4498,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 32,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Palazzo",
+    "uniqueCode": "SH-WMN-169",
+    "category": "Palazzo",
+    "mainCategory": "Women",
+    "description": "A urban palazzo in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 4635,
+    "offerPrice": 2781,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 33,
+    "rating": 3.6,
+    "reviewCount": 89,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Jumpsuit",
+    "uniqueCode": "SH-WMN-170",
+    "category": "Jumpsuit",
+    "mainCategory": "Women",
+    "description": "A essential jumpsuit in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 4772,
+    "offerPrice": 3245,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 34,
+    "rating": 3.7,
+    "reviewCount": 92,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Skirt",
+    "uniqueCode": "SH-WMN-171",
+    "category": "Skirt",
+    "mainCategory": "Women",
+    "description": "A classic skirt in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4909,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 35,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Cardigan",
+    "uniqueCode": "SH-WMN-172",
+    "category": "Cardigan",
+    "mainCategory": "Women",
+    "description": "A modern cardigan in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 846,
+    "offerPrice": 711,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 36,
+    "rating": 3.9,
+    "reviewCount": 98,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Dress",
+    "uniqueCode": "SH-WMN-173",
+    "category": "Dress",
+    "mainCategory": "Women",
+    "description": "A relaxed dress in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 983,
+    "offerPrice": 590,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 37,
+    "rating": 4,
+    "reviewCount": 101,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Top",
+    "uniqueCode": "SH-WMN-174",
+    "category": "Top",
+    "mainCategory": "Women",
+    "description": "A slim-fit top in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&sat=-10&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 38,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Kurti",
+    "uniqueCode": "SH-WMN-175",
+    "category": "Kurti",
+    "mainCategory": "Women",
+    "description": "A everyday kurti in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1257,
+    "offerPrice": 955,
+    "images": [
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1762504007493-88ebabd0d51d?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 39,
+    "rating": 4.2,
+    "reviewCount": 107,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Saree",
+    "uniqueCode": "SH-WMN-176",
+    "category": "Saree",
+    "mainCategory": "Women",
+    "description": "A weekend saree in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1394,
+    "offerPrice": 1171,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 40,
+    "rating": 4.3,
+    "reviewCount": 110,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Palazzo",
+    "uniqueCode": "SH-WMN-177",
+    "category": "Palazzo",
+    "mainCategory": "Women",
+    "description": "A studio palazzo in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1531,
+    "images": [
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1585562022409-aef566aa6bef?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 41,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Jumpsuit",
+    "uniqueCode": "SH-WMN-178",
+    "category": "Jumpsuit",
+    "mainCategory": "Women",
+    "description": "A heritage jumpsuit in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1668,
+    "offerPrice": 1134,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-25&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 42,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Skirt",
+    "uniqueCode": "SH-WMN-179",
+    "category": "Skirt",
+    "mainCategory": "Women",
+    "description": "A urban skirt in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1805,
+    "offerPrice": 1372,
+    "images": [
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1760328249113-31c07547aea8?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 43,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Cardigan",
+    "uniqueCode": "SH-WMN-180",
+    "category": "Cardigan",
+    "mainCategory": "Women",
+    "description": "A essential cardigan in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1942,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeGuide": {
+      "S": "Chest 36-38 in",
+      "M": "Chest 39-41 in",
+      "L": "Chest 42-44 in",
+      "XL": "Chest 45-47 in"
+    },
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 44,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Co-ord Set",
+    "uniqueCode": "SH-KID-181",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A classic co-ord set in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 5,
+    "rating": 3.6,
+    "reviewCount": 5,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal T-Shirt",
+    "uniqueCode": "SH-KID-182",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A modern t-shirt in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 936,
+    "offerPrice": 636,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 6,
+    "rating": 3.7,
+    "reviewCount": 8,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Dungaree",
+    "uniqueCode": "SH-KID-183",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A relaxed dungaree in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1073,
+    "offerPrice": 815,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 7,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Frock",
+    "uniqueCode": "SH-KID-184",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A slim-fit frock in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 8,
+    "rating": 3.9,
+    "reviewCount": 14,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Shorts Set",
+    "uniqueCode": "SH-KID-185",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A everyday shorts set in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1347,
+    "offerPrice": 808,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 9,
+    "rating": 4,
+    "reviewCount": 17,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Jacket",
+    "uniqueCode": "SH-KID-186",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A weekend jacket in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1484,
+    "offerPrice": 1009,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4.1,
+    "reviewCount": 20,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Co-ord Set",
+    "uniqueCode": "SH-KID-187",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A studio co-ord set in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1621,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 11,
+    "rating": 4.2,
+    "reviewCount": 23,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon T-Shirt",
+    "uniqueCode": "SH-KID-188",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A heritage t-shirt in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1758,
+    "offerPrice": 1477,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 12,
+    "rating": 4.3,
+    "reviewCount": 26,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Dungaree",
+    "uniqueCode": "SH-KID-189",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A urban dungaree in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1895,
+    "offerPrice": 1137,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 13,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Frock",
+    "uniqueCode": "SH-KID-190",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A essential frock in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2032,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 14,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Shorts Set",
+    "uniqueCode": "SH-KID-191",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A classic shorts set in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2169,
+    "offerPrice": 1648,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 15,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Jacket",
+    "uniqueCode": "SH-KID-192",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A modern jacket in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 2306,
+    "offerPrice": 1937,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Co-ord Set",
+    "uniqueCode": "SH-KID-193",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A relaxed co-ord set in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 2443,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 17,
+    "rating": 4.8,
+    "reviewCount": 41,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory T-Shirt",
+    "uniqueCode": "SH-KID-194",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A slim-fit t-shirt in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 2580,
+    "offerPrice": 1754,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 18,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Dungaree",
+    "uniqueCode": "SH-KID-195",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A everyday dungaree in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 2717,
+    "offerPrice": 2065,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 19,
+    "rating": 3.6,
+    "reviewCount": 47,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Frock",
+    "uniqueCode": "SH-KID-196",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A weekend frock in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2854,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 20,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Shorts Set",
+    "uniqueCode": "SH-KID-197",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A studio shorts set in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2991,
+    "offerPrice": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 21,
+    "rating": 3.8,
+    "reviewCount": 53,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Jacket",
+    "uniqueCode": "SH-KID-198",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A heritage jacket in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3128,
+    "offerPrice": 2127,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 22,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Co-ord Set",
+    "uniqueCode": "SH-KID-199",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A urban co-ord set in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 3265,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 23,
+    "rating": 4,
+    "reviewCount": 59,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush T-Shirt",
+    "uniqueCode": "SH-KID-200",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A essential t-shirt in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 3402,
+    "offerPrice": 2858,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 24,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Dungaree",
+    "uniqueCode": "SH-KID-201",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A classic dungaree in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 3539,
+    "offerPrice": 2123,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 25,
+    "rating": 4.2,
+    "reviewCount": 65,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Frock",
+    "uniqueCode": "SH-KID-202",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A modern frock in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 3676,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 26,
+    "rating": 4.3,
+    "reviewCount": 68,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Shorts Set",
+    "uniqueCode": "SH-KID-203",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A relaxed shorts set in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 3813,
+    "offerPrice": 2898,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 27,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Jacket",
+    "uniqueCode": "SH-KID-204",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A slim-fit jacket in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3950,
+    "offerPrice": 3318,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Co-ord Set",
+    "uniqueCode": "SH-KID-205",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A everyday co-ord set in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4087,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 29,
+    "rating": 4.6,
+    "reviewCount": 77,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand T-Shirt",
+    "uniqueCode": "SH-KID-206",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A weekend t-shirt in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 4224,
+    "offerPrice": 2872,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Dungaree",
+    "uniqueCode": "SH-KID-207",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A studio dungaree in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 4361,
+    "offerPrice": 3314,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 31,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Frock",
+    "uniqueCode": "SH-KID-208",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A heritage frock in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 4498,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 32,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Shorts Set",
+    "uniqueCode": "SH-KID-209",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A urban shorts set in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 4635,
+    "offerPrice": 2781,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 33,
+    "rating": 3.6,
+    "reviewCount": 89,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Jacket",
+    "uniqueCode": "SH-KID-210",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A essential jacket in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 4772,
+    "offerPrice": 3245,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 34,
+    "rating": 3.7,
+    "reviewCount": 92,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Co-ord Set",
+    "uniqueCode": "SH-KID-211",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A classic co-ord set in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4909,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 35,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal T-Shirt",
+    "uniqueCode": "SH-KID-212",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A modern t-shirt in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 846,
+    "offerPrice": 711,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 36,
+    "rating": 3.9,
+    "reviewCount": 98,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Dungaree",
+    "uniqueCode": "SH-KID-213",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A relaxed dungaree in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 983,
+    "offerPrice": 590,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 37,
+    "rating": 4,
+    "reviewCount": 101,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Frock",
+    "uniqueCode": "SH-KID-214",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A slim-fit frock in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 38,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Shorts Set",
+    "uniqueCode": "SH-KID-215",
+    "category": "Shorts Set",
+    "mainCategory": "Kids",
+    "description": "A everyday shorts set in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1257,
+    "offerPrice": 955,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 39,
+    "rating": 4.2,
+    "reviewCount": 107,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Jacket",
+    "uniqueCode": "SH-KID-216",
+    "category": "Jacket",
+    "mainCategory": "Kids",
+    "description": "A weekend jacket in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1394,
+    "offerPrice": 1171,
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/flagged/photo-1562419988-09dda379588a?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 40,
+    "rating": 4.3,
+    "reviewCount": 110,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Co-ord Set",
+    "uniqueCode": "SH-KID-217",
+    "category": "Co-ord Set",
+    "mainCategory": "Kids",
+    "description": "A studio co-ord set in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1531,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 41,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon T-Shirt",
+    "uniqueCode": "SH-KID-218",
+    "category": "T-Shirt",
+    "mainCategory": "Kids",
+    "description": "A heritage t-shirt in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1668,
+    "offerPrice": 1134,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&crop=bottom"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 42,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Dungaree",
+    "uniqueCode": "SH-KID-219",
+    "category": "Dungaree",
+    "mainCategory": "Kids",
+    "description": "A urban dungaree in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1805,
+    "offerPrice": 1372,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 43,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Frock",
+    "uniqueCode": "SH-KID-220",
+    "category": "Frock",
+    "mainCategory": "Kids",
+    "description": "A essential frock in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1942,
+    "images": [
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40",
+      "https://images.unsplash.com/photo-1618847473414-f87d61dbf317?q=80&w=800&auto=format&fit=crop&sat=-40&crop=faces"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 44,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Tote Bag",
+    "uniqueCode": "SH-FSH-221",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A classic tote bag in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 5,
+    "rating": 3.6,
+    "reviewCount": 5,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Belt",
+    "uniqueCode": "SH-FSH-222",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A modern belt in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 936,
+    "offerPrice": 636,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 6,
+    "rating": 3.7,
+    "reviewCount": 8,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Scarf",
+    "uniqueCode": "SH-FSH-223",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A relaxed scarf in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1073,
+    "offerPrice": 815,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 7,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Sunglasses",
+    "uniqueCode": "SH-FSH-224",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A slim-fit sunglasses in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 8,
+    "rating": 3.9,
+    "reviewCount": 14,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Watch",
+    "uniqueCode": "SH-FSH-225",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A everyday watch in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1347,
+    "offerPrice": 808,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 9,
+    "rating": 4,
+    "reviewCount": 17,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Wallet",
+    "uniqueCode": "SH-FSH-226",
+    "category": "Wallet",
+    "mainCategory": "Fashion",
+    "description": "A weekend wallet in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1484,
+    "offerPrice": 1009,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=bottom"
+    ],
+    "sizes": [],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4.1,
+    "reviewCount": 20,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Cap",
+    "uniqueCode": "SH-FSH-227",
+    "category": "Cap",
+    "mainCategory": "Fashion",
+    "description": "A studio cap in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1621,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 11,
+    "rating": 4.2,
+    "reviewCount": 23,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Tote Bag",
+    "uniqueCode": "SH-FSH-228",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A heritage tote bag in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1758,
+    "offerPrice": 1477,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 12,
+    "rating": 4.3,
+    "reviewCount": 26,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Belt",
+    "uniqueCode": "SH-FSH-229",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A urban belt in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1895,
+    "offerPrice": 1137,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 13,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Scarf",
+    "uniqueCode": "SH-FSH-230",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A essential scarf in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2032,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 14,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Sunglasses",
+    "uniqueCode": "SH-FSH-231",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A classic sunglasses in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2169,
+    "offerPrice": 1648,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 15,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Watch",
+    "uniqueCode": "SH-FSH-232",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A modern watch in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 2306,
+    "offerPrice": 1937,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Wallet",
+    "uniqueCode": "SH-FSH-233",
+    "category": "Wallet",
+    "mainCategory": "Fashion",
+    "description": "A relaxed wallet in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 2443,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=bottom"
+    ],
+    "sizes": [],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 17,
+    "rating": 4.8,
+    "reviewCount": 41,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Cap",
+    "uniqueCode": "SH-FSH-234",
+    "category": "Cap",
+    "mainCategory": "Fashion",
+    "description": "A slim-fit cap in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 2580,
+    "offerPrice": 1754,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 18,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Tote Bag",
+    "uniqueCode": "SH-FSH-235",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A everyday tote bag in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 2717,
+    "offerPrice": 2065,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 19,
+    "rating": 3.6,
+    "reviewCount": 47,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Belt",
+    "uniqueCode": "SH-FSH-236",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A weekend belt in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2854,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 20,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Scarf",
+    "uniqueCode": "SH-FSH-237",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A studio scarf in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2991,
+    "offerPrice": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 21,
+    "rating": 3.8,
+    "reviewCount": 53,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Sunglasses",
+    "uniqueCode": "SH-FSH-238",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A heritage sunglasses in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3128,
+    "offerPrice": 2127,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 22,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Watch",
+    "uniqueCode": "SH-FSH-239",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A urban watch in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 3265,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 23,
+    "rating": 4,
+    "reviewCount": 59,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Wallet",
+    "uniqueCode": "SH-FSH-240",
+    "category": "Wallet",
+    "mainCategory": "Fashion",
+    "description": "A essential wallet in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 3402,
+    "offerPrice": 2858,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=bottom"
+    ],
+    "sizes": [],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 24,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Cap",
+    "uniqueCode": "SH-FSH-241",
+    "category": "Cap",
+    "mainCategory": "Fashion",
+    "description": "A classic cap in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 3539,
+    "offerPrice": 2123,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 25,
+    "rating": 4.2,
+    "reviewCount": 65,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Tote Bag",
+    "uniqueCode": "SH-FSH-242",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A modern tote bag in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 3676,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 26,
+    "rating": 4.3,
+    "reviewCount": 68,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Belt",
+    "uniqueCode": "SH-FSH-243",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A relaxed belt in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 3813,
+    "offerPrice": 2898,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 27,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Scarf",
+    "uniqueCode": "SH-FSH-244",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A slim-fit scarf in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3950,
+    "offerPrice": 3318,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Sunglasses",
+    "uniqueCode": "SH-FSH-245",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A everyday sunglasses in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4087,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 29,
+    "rating": 4.6,
+    "reviewCount": 77,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Watch",
+    "uniqueCode": "SH-FSH-246",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A weekend watch in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 4224,
+    "offerPrice": 2872,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Wallet",
+    "uniqueCode": "SH-FSH-247",
+    "category": "Wallet",
+    "mainCategory": "Fashion",
+    "description": "A studio wallet in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 4361,
+    "offerPrice": 3314,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=bottom"
+    ],
+    "sizes": [],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 31,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Cap",
+    "uniqueCode": "SH-FSH-248",
+    "category": "Cap",
+    "mainCategory": "Fashion",
+    "description": "A heritage cap in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 4498,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 32,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Tote Bag",
+    "uniqueCode": "SH-FSH-249",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A urban tote bag in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 4635,
+    "offerPrice": 2781,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 33,
+    "rating": 3.6,
+    "reviewCount": 89,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Belt",
+    "uniqueCode": "SH-FSH-250",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A essential belt in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 4772,
+    "offerPrice": 3245,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 34,
+    "rating": 3.7,
+    "reviewCount": 92,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Scarf",
+    "uniqueCode": "SH-FSH-251",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A classic scarf in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4909,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 35,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Sunglasses",
+    "uniqueCode": "SH-FSH-252",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A modern sunglasses in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 846,
+    "offerPrice": 711,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 36,
+    "rating": 3.9,
+    "reviewCount": 98,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Watch",
+    "uniqueCode": "SH-FSH-253",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A relaxed watch in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 983,
+    "offerPrice": 590,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 37,
+    "rating": 4,
+    "reviewCount": 101,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Wallet",
+    "uniqueCode": "SH-FSH-254",
+    "category": "Wallet",
+    "mainCategory": "Fashion",
+    "description": "A slim-fit wallet in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=0&crop=bottom"
+    ],
+    "sizes": [],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 38,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Cap",
+    "uniqueCode": "SH-FSH-255",
+    "category": "Cap",
+    "mainCategory": "Fashion",
+    "description": "A everyday cap in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1257,
+    "offerPrice": 955,
+    "images": [
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95",
+      "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?q=80&w=800&auto=format&fit=crop&sat=-95&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 39,
+    "rating": 4.2,
+    "reviewCount": 107,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Tote Bag",
+    "uniqueCode": "SH-FSH-256",
+    "category": "Tote Bag",
+    "mainCategory": "Fashion",
+    "description": "A weekend tote bag in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1394,
+    "offerPrice": 1171,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-30&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 40,
+    "rating": 4.3,
+    "reviewCount": 110,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Belt",
+    "uniqueCode": "SH-FSH-257",
+    "category": "Belt",
+    "mainCategory": "Fashion",
+    "description": "A studio belt in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1531,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-50&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 41,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Scarf",
+    "uniqueCode": "SH-FSH-258",
+    "category": "Scarf",
+    "mainCategory": "Fashion",
+    "description": "A heritage scarf in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1668,
+    "offerPrice": 1134,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-20&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 42,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Sunglasses",
+    "uniqueCode": "SH-FSH-259",
+    "category": "Sunglasses",
+    "mainCategory": "Fashion",
+    "description": "A urban sunglasses in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1805,
+    "offerPrice": 1372,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-70&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 43,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Watch",
+    "uniqueCode": "SH-FSH-260",
+    "category": "Watch",
+    "mainCategory": "Fashion",
+    "description": "A essential watch in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1942,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-90&crop=faces"
+    ],
+    "sizes": [],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 44,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Sneakers",
+    "uniqueCode": "SH-ACC-261",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A classic sneakers in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 5,
+    "rating": 3.6,
+    "reviewCount": 5,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Loafers",
+    "uniqueCode": "SH-ACC-262",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A modern loafers in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 936,
+    "offerPrice": 636,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 6,
+    "rating": 3.7,
+    "reviewCount": 8,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Sandals",
+    "uniqueCode": "SH-ACC-263",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A relaxed sandals in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1073,
+    "offerPrice": 815,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 7,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Backpack",
+    "uniqueCode": "SH-ACC-264",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A slim-fit backpack in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 8,
+    "rating": 3.9,
+    "reviewCount": 14,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Necklace",
+    "uniqueCode": "SH-ACC-265",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A everyday necklace in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1347,
+    "offerPrice": 808,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 9,
+    "rating": 4,
+    "reviewCount": 17,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Earrings",
+    "uniqueCode": "SH-ACC-266",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A weekend earrings in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1484,
+    "offerPrice": 1009,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 10,
+    "rating": 4.1,
+    "reviewCount": 20,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Sneakers",
+    "uniqueCode": "SH-ACC-267",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A studio sneakers in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1621,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 11,
+    "rating": 4.2,
+    "reviewCount": 23,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Loafers",
+    "uniqueCode": "SH-ACC-268",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A heritage loafers in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1758,
+    "offerPrice": 1477,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 12,
+    "rating": 4.3,
+    "reviewCount": 26,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Sandals",
+    "uniqueCode": "SH-ACC-269",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A urban sandals in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1895,
+    "offerPrice": 1137,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 13,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Backpack",
+    "uniqueCode": "SH-ACC-270",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A essential backpack in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2032,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 14,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Necklace",
+    "uniqueCode": "SH-ACC-271",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A classic necklace in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2169,
+    "offerPrice": 1648,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 15,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Earrings",
+    "uniqueCode": "SH-ACC-272",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A modern earrings in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 2306,
+    "offerPrice": 1937,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Sneakers",
+    "uniqueCode": "SH-ACC-273",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A relaxed sneakers in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 2443,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 17,
+    "rating": 4.8,
+    "reviewCount": 41,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Loafers",
+    "uniqueCode": "SH-ACC-274",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A slim-fit loafers in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 2580,
+    "offerPrice": 1754,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 18,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Sandals",
+    "uniqueCode": "SH-ACC-275",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A everyday sandals in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 2717,
+    "offerPrice": 2065,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 19,
+    "rating": 3.6,
+    "reviewCount": 47,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Backpack",
+    "uniqueCode": "SH-ACC-276",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A weekend backpack in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 2854,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 20,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Necklace",
+    "uniqueCode": "SH-ACC-277",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A studio necklace in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 2991,
+    "offerPrice": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 21,
+    "rating": 3.8,
+    "reviewCount": 53,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Earrings",
+    "uniqueCode": "SH-ACC-278",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A heritage earrings in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3128,
+    "offerPrice": 2127,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 22,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Sneakers",
+    "uniqueCode": "SH-ACC-279",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A urban sneakers in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 3265,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 23,
+    "rating": 4,
+    "reviewCount": 59,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Loafers",
+    "uniqueCode": "SH-ACC-280",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A essential loafers in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 3402,
+    "offerPrice": 2858,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 24,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Sandals",
+    "uniqueCode": "SH-ACC-281",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A classic sandals in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 3539,
+    "offerPrice": 2123,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 25,
+    "rating": 4.2,
+    "reviewCount": 65,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Backpack",
+    "uniqueCode": "SH-ACC-282",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A modern backpack in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 3676,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 26,
+    "rating": 4.3,
+    "reviewCount": 68,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Necklace",
+    "uniqueCode": "SH-ACC-283",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A relaxed necklace in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 3813,
+    "offerPrice": 2898,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": null,
+    "stockCount": 27,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Earrings",
+    "uniqueCode": "SH-ACC-284",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A slim-fit earrings in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 3950,
+    "offerPrice": 3318,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 28,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Sneakers",
+    "uniqueCode": "SH-ACC-285",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A everyday sneakers in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4087,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 29,
+    "rating": 4.6,
+    "reviewCount": 77,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Loafers",
+    "uniqueCode": "SH-ACC-286",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A weekend loafers in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 4224,
+    "offerPrice": 2872,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 30,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Sandals",
+    "uniqueCode": "SH-ACC-287",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A studio sandals in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 4361,
+    "offerPrice": 3314,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": null,
+    "stockCount": 31,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Backpack",
+    "uniqueCode": "SH-ACC-288",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A heritage backpack in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 4498,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 32,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Necklace",
+    "uniqueCode": "SH-ACC-289",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A urban necklace in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 4635,
+    "offerPrice": 2781,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 33,
+    "rating": 3.6,
+    "reviewCount": 89,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Earrings",
+    "uniqueCode": "SH-ACC-290",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A essential earrings in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 4772,
+    "offerPrice": 3245,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 34,
+    "rating": 3.7,
+    "reviewCount": 92,
+    "isDeal": false
+  },
+  {
+    "title": "Classic Navy Sneakers",
+    "uniqueCode": "SH-ACC-291",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A classic sneakers in navy, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 4909,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "badge": "NEW",
+    "stockCount": 35,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "isDeal": false
+  },
+  {
+    "title": "Modern Charcoal Loafers",
+    "uniqueCode": "SH-ACC-292",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A modern loafers in charcoal, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 846,
+    "offerPrice": 711,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Charcoal"
+    ],
+    "badge": null,
+    "stockCount": 36,
+    "rating": 3.9,
+    "reviewCount": 98,
+    "isDeal": false
+  },
+  {
+    "title": "Relaxed Olive Sandals",
+    "uniqueCode": "SH-ACC-293",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A relaxed sandals in olive, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 983,
+    "offerPrice": 590,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Olive"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 37,
+    "rating": 4,
+    "reviewCount": 101,
+    "isDeal": false
+  },
+  {
+    "title": "Slim-Fit Ivory Backpack",
+    "uniqueCode": "SH-ACC-294",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A slim-fit backpack in ivory, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "badge": null,
+    "stockCount": 38,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "isDeal": false
+  },
+  {
+    "title": "Everyday Rust Necklace",
+    "uniqueCode": "SH-ACC-295",
+    "category": "Necklace",
+    "mainCategory": "Accessories",
+    "description": "A everyday necklace in rust, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton Twill",
+    "price": 1257,
+    "offerPrice": 955,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-60&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rust"
+    ],
+    "badge": null,
+    "stockCount": 39,
+    "rating": 4.2,
+    "reviewCount": 107,
+    "isDeal": false
+  },
+  {
+    "title": "Weekend Sand Earrings",
+    "uniqueCode": "SH-ACC-296",
+    "category": "Earrings",
+    "mainCategory": "Accessories",
+    "description": "A weekend earrings in sand, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Poly-Viscose Blend",
+    "price": 1394,
+    "offerPrice": 1171,
+    "images": [
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80",
+      "https://images.unsplash.com/photo-1758981400268-1181291b9503?q=80&w=800&auto=format&fit=crop&sat=-80&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "badge": "NEW",
+    "stockCount": 40,
+    "rating": 4.3,
+    "reviewCount": 110,
+    "isDeal": false
+  },
+  {
+    "title": "Studio SteelBlue Sneakers",
+    "uniqueCode": "SH-ACC-297",
+    "category": "Sneakers",
+    "mainCategory": "Accessories",
+    "description": "A studio sneakers in steelblue, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Cotton",
+    "price": 1531,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "SteelBlue"
+    ],
+    "badge": "BESTSELLER",
+    "stockCount": 41,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "isDeal": false
+  },
+  {
+    "title": "Heritage Maroon Loafers",
+    "uniqueCode": "SH-ACC-298",
+    "category": "Loafers",
+    "mainCategory": "Accessories",
+    "description": "A heritage loafers in maroon, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Linen",
+    "price": 1668,
+    "offerPrice": 1134,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-15&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Maroon"
+    ],
+    "badge": null,
+    "stockCount": 42,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "isDeal": false
+  },
+  {
+    "title": "Urban Forest Sandals",
+    "uniqueCode": "SH-ACC-299",
+    "category": "Sandals",
+    "mainCategory": "Accessories",
+    "description": "A urban sandals in forest, made for everyday wear with a focus on fit and finish.",
+    "fabric": "Cotton-Poly Blend",
+    "price": 1805,
+    "offerPrice": 1372,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-35&crop=faces"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "badge": null,
+    "stockCount": 43,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "isDeal": false
+  },
+  {
+    "title": "Essential Blush Backpack",
+    "uniqueCode": "SH-ACC-300",
+    "category": "Backpack",
+    "mainCategory": "Accessories",
+    "description": "A essential backpack in blush, made for everyday wear with a focus on fit and finish.",
+    "fabric": "100% Rayon",
+    "price": 1942,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=top",
+      "https://images.unsplash.com/photo-1542272604-78d13c1f741a?q=80&w=800&auto=format&fit=crop&sat=-45&crop=bottom"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "badge": null,
+    "stockCount": 44,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "isDeal": false
+  }
+]

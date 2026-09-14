@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Heritage Maroon Sunglasses">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <circle cx="240" cy="380" r="90" fill="#6e1f2a" stroke="rgb(71,20,27)" stroke-width="8"/>
+    <circle cx="460" cy="380" r="90" fill="#6e1f2a" stroke="rgb(71,20,27)" stroke-width="8"/>
+    <path d="M 330 380 L 370 380" stroke="rgb(71,20,27)" stroke-width="8"/>
+    <path d="M 150 370 L 90 340" stroke="rgb(71,20,27)" stroke-width="8"/>
+    <path d="M 550 370 L 610 340" stroke="rgb(71,20,27)" stroke-width="8"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Heritage Maroon Sunglasses</text>
+</svg>

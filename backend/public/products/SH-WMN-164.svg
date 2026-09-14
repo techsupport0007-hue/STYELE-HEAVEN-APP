@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Slim-Fit Ivory Cardigan">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <polygon points="220,210 290,150 350,190 410,150 480,210
+                     550,280 500,380 480,340 480,700 220,700
+                     220,340 200,380 150,280"
+             fill="#f2ede1" stroke="rgb(157,154,146)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 310 155 L 350 210 L 390 155" fill="none" stroke="rgb(157,154,146)" stroke-width="5"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Slim-Fit Ivory Cardigan</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Relaxed Olive Dress">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <polygon points="260,170 310,150 350,185 390,150 440,170
+                     480,260 570,620 130,620 220,260"
+             fill="#5c6b3a" stroke="rgb(59,69,37)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 320 155 L 350 195 L 380 155" fill="none" stroke="rgb(59,69,37)" stroke-width="5"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Relaxed Olive Dress</text>
+</svg>

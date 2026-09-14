@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 933" width="700" height="933" role="img" aria-label="Essential Blush Watch">
+  <rect width="700" height="933" fill="#F1F1F6"/>
+  
+    <rect x="290" y="230" width="120" height="130" rx="14" fill="rgb(147,107,104)"/>
+    <circle cx="350" cy="400" r="120" fill="#e3a6a1" stroke="rgb(147,107,104)" stroke-width="10"/>
+    <rect x="290" y="500" width="120" height="130" rx="14" fill="rgb(147,107,104)"/>
+  <text x="350" y="893" font-family="Arial, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">Essential Blush Watch</text>
+</svg>

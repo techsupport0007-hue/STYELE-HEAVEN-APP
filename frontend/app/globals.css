@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper text-ink font-sans antialiased;
+}
+
+/* Locks background scroll while the mobile drawer is open.
+   Applied to <body> via JS (see MobileDrawer.jsx) instead of
+   `overflow:hidden` on a wrapping div, so it can't be bypassed
+   by a fixed-position child growing past its container — this
+   was the root cause of the "navbar disappears on scroll" bug
+   on small screens: a fixed header being pushed off by a body
+   that kept scrolling underneath an open drawer. */
+body.drawer-open {
+  overflow: hidden;
+  height: 100vh;
+}
+
+/* Ticker tape */
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 28s linear infinite;
+}
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+@keyframes ticker-scroll {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* Underline-style form inputs used on the Contact page */
+.input-underline {
+  @apply w-full border-0 border-b border-line bg-transparent py-2 text-sm
+         focus:border-ink focus:outline-none focus:ring-0 transition-colors;
+}
+
+/* Visible keyboard focus everywhere, incl. reduced motion */
+:focus-visible {
+  outline: 2px solid #16213E;
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Reusable loading skeleton shimmer */
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: #EDEDF3;
+}
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.55), transparent);
+  animation: skeleton-shimmer 1.4s infinite;
+}
+@keyframes skeleton-shimmer {
+  100% { transform: translateX(100%); }
+}
