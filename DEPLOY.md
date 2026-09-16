@@ -1,4 +1,4 @@
-# Deploying Style Heaven to GitHub Pages
+# Deploying Style Haven to GitHub Pages
 
 Repo: https://github.com/techsupport0007-hue/STYLE-HEAVEN.git
 

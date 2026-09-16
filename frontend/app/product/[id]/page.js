@@ -227,6 +227,12 @@ export default function ProductDetailPage({ params }) {
           </div>
 
           <div className="mt-8 border-t border-line pt-6">
+            <div className="mb-4 inline-flex items-center border border-ink px-3 py-2">
+              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-ink">
+                Free Delivery on All Orders
+              </span>
+            </div>
+
             <span className="mb-2 block text-xs font-bold uppercase tracking-wide">
               Check delivery
             </span>

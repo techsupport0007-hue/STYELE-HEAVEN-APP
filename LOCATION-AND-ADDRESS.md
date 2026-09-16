@@ -1,10 +1,10 @@
-# Style Heaven — Location & Address Flow
+# Style Haven — Location & Address Flow
 
 ## Customer experience
 
 1. Customer signs in and opens Checkout or Profile.
 2. Customer enters a 6-digit Indian PIN.
-3. Style Heaven calls `/api/location/pincode/:pin`.
+3. Style Haven calls `/api/location/pincode/:pin`.
 4. City, state and post-office/area are filled when available.
 5. Customer can click **Use my current location**.
 6. Browser permission is requested through the Geolocation API.

@@ -1,4 +1,4 @@
-# Style Heaven — Modern Fashion Store
+# Style Haven — Modern Fashion Store
 
 A React/Next.js storefront on an Express + MongoDB backend.
 

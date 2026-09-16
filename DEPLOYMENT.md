@@ -1,4 +1,4 @@
-# Deploying Style Heaven to Production
+# Deploying Style Haven to Production
 
 This covers what changed to make the app production-ready, and the steps
 to actually go live.

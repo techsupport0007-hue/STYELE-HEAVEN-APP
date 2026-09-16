@@ -29,9 +29,11 @@ export default function ContactPage() {
     if (!/^\S+@\S+\.\S+$/.test(form.email)) next.email = 'Enter a valid email.';
     if (!form.subject.trim()) next.subject = 'Enter a subject.';
     if (!form.message.trim()) next.message = 'Enter a message.';
+
     if (ORDER_RELATED_TYPES.includes(form.queryType) && !form.orderId.trim()) {
       next.orderId = 'Enter your Order ID (e.g. SH-ORD-98412).';
     }
+
     setErrors(next);
     return Object.keys(next).length === 0;
   }
@@ -39,7 +41,9 @@ export default function ContactPage() {
   async function handleSubmit(e) {
     e.preventDefault();
     if (!validate()) return;
+
     setStatus('sending');
+
     try {
       await submitContactForm({
         name: form.name,
@@ -49,8 +53,16 @@ export default function ContactPage() {
           ? `Order ID: ${form.orderId}\n\n${form.message}`
           : form.message,
       });
+
       setStatus('sent');
-      setForm({ name: '', email: '', queryType: 'General Query', orderId: '', subject: '', message: '' });
+      setForm({
+        name: '',
+        email: '',
+        queryType: 'General Query',
+        orderId: '',
+        subject: '',
+        message: '',
+      });
     } catch {
       setStatus('error');
     }
@@ -60,28 +72,70 @@ export default function ContactPage() {
     <div className="mx-auto max-w-container px-4 py-14 md:px-8">
       <div className="grid gap-14 md:grid-cols-2">
         <div>
-          <p className="text-xs font-bold uppercase tracking-widest text-muted">Contact</p>
-          <h1 className="mt-2 font-serif text-4xl leading-tight text-ink">We&apos;d love to hear from you.</h1>
+          <p className="text-xs font-bold uppercase tracking-widest text-muted">
+            Contact
+          </p>
+
+          <h1 className="mt-2 font-serif text-4xl leading-tight text-ink">
+            We&apos;d love to hear from you.
+          </h1>
+
           <p className="mt-4 max-w-sm text-sm text-muted">
-            Questions about your order, sizing, or a product recommendation — our team is here 7
-            days a week.
+            Questions about your order, sizing, or a product recommendation —
+            our team is here 7 days a week.
           </p>
 
           <div className="mt-10 space-y-6 text-sm">
             <div>
-              <p className="text-xs font-bold uppercase tracking-widest text-muted">Support</p>
-              <a href="mailto:support@styleheaven.in" className="mt-1 block text-ink hover:text-emerald hover:underline">support@styleheaven.in</a>
+              <p className="text-xs font-bold uppercase tracking-widest text-muted">
+                Company
+              </p>
+              <p className="mt-1 text-ink">
+                Style Haven Private Limited
+              </p>
+              <p className="mt-1 text-xs text-muted">
+                Operating under the consumer brand Style Haven
+              </p>
             </div>
+
             <div>
-              <p className="text-xs font-bold uppercase tracking-widest text-muted">Merchant enquiries</p>
-              <a href="mailto:support@styleheavenin" className="mt-1 block text-ink hover:text-emerald hover:underline">support@styleheavenin</a>
+              <p className="text-xs font-bold uppercase tracking-widest text-muted">
+                Customer support
+              </p>
+              <a
+                href="mailto:support@styleheaven.in"
+                className="mt-1 block text-ink hover:text-emerald hover:underline"
+              >
+                support@styleheaven.in
+              </a>
             </div>
+
             <div>
-              <p className="text-xs font-bold uppercase tracking-widest text-muted">Studio</p>
-              <p className="mt-1 text-ink">FF 61,PLOT 271, K BLOCK,ANSAL FORTUN ARCADE,NOIDA,SEC 18, NOIDA UP 201301</p>
+              <p className="text-xs font-bold uppercase tracking-widest text-muted">
+                Merchant enquiries
+              </p>
+              <a
+                href="mailto:support@styleheaven.in"
+                className="mt-1 block text-ink hover:text-emerald hover:underline"
+              >
+                support@styleheaven.in
+              </a>
             </div>
+
             <div>
-              <p className="text-xs font-bold uppercase tracking-widest text-muted">Phone</p>
+              <p className="text-xs font-bold uppercase tracking-widest text-muted">
+                Registered office
+              </p>
+              <p className="mt-1 text-ink">
+                FF 61, Plot 271, K Block, Ansal Fortune Arcade,
+                Sector 18, Noida, Uttar Pradesh 201301
+              </p>
+            </div>
+
+            <div>
+              <p className="text-xs font-bold uppercase tracking-widest text-muted">
+                Phone
+              </p>
               <p className="mt-1 text-ink">+91 8527879317</p>
             </div>
           </div>
@@ -93,6 +147,7 @@ export default function ContactPage() {
               Thanks — your message has been sent. We&apos;ll reply within 1 business day.
             </div>
           )}
+
           {status === 'error' && (
             <div className="rounded-xl border border-sale/40 bg-red-50 px-4 py-3 text-sm text-sale">
               Something went wrong sending your message. Please try again.
@@ -100,68 +155,95 @@ export default function ContactPage() {
           )}
 
           <div>
-            <label className="text-xs font-bold uppercase tracking-widest text-muted">Query type</label>
+            <label className="text-xs font-bold uppercase tracking-widest text-muted">
+              Query type
+            </label>
             <select
               className="input-underline bg-transparent"
               value={form.queryType}
               onChange={(e) => set('queryType', e.target.value)}
             >
               {QUERY_TYPES.map((t) => (
-                <option key={t} value={t}>{t}</option>
+                <option key={t} value={t}>
+                  {t}
+                </option>
               ))}
             </select>
           </div>
 
           {ORDER_RELATED_TYPES.includes(form.queryType) && (
             <div>
-              <label className="text-xs font-bold uppercase tracking-widest text-muted">Order ID</label>
+              <label className="text-xs font-bold uppercase tracking-widest text-muted">
+                Order ID
+              </label>
               <input
                 className="input-underline"
                 placeholder="SH-ORD-98412"
                 value={form.orderId}
                 onChange={(e) => set('orderId', e.target.value)}
               />
-              {errors.orderId && <p className="mt-1 text-xs text-sale">{errors.orderId}</p>}
+              {errors.orderId && (
+                <p className="mt-1 text-xs text-sale">{errors.orderId}</p>
+              )}
             </div>
           )}
 
           <div>
-            <label className="text-xs font-bold uppercase tracking-widest text-muted">Your name</label>
+            <label className="text-xs font-bold uppercase tracking-widest text-muted">
+              Your name
+            </label>
             <input
               className="input-underline"
               value={form.name}
               onChange={(e) => set('name', e.target.value)}
             />
-            {errors.name && <p className="mt-1 text-xs text-sale">{errors.name}</p>}
+            {errors.name && (
+              <p className="mt-1 text-xs text-sale">{errors.name}</p>
+            )}
           </div>
+
           <div>
-            <label className="text-xs font-bold uppercase tracking-widest text-muted">Email</label>
+            <label className="text-xs font-bold uppercase tracking-widest text-muted">
+              Email
+            </label>
             <input
               type="email"
               className="input-underline"
               value={form.email}
               onChange={(e) => set('email', e.target.value)}
             />
-            {errors.email && <p className="mt-1 text-xs text-sale">{errors.email}</p>}
+            {errors.email && (
+              <p className="mt-1 text-xs text-sale">{errors.email}</p>
+            )}
           </div>
+
           <div>
-            <label className="text-xs font-bold uppercase tracking-widest text-muted">Subject</label>
+            <label className="text-xs font-bold uppercase tracking-widest text-muted">
+              Subject
+            </label>
             <input
               className="input-underline"
               value={form.subject}
               onChange={(e) => set('subject', e.target.value)}
             />
-            {errors.subject && <p className="mt-1 text-xs text-sale">{errors.subject}</p>}
+            {errors.subject && (
+              <p className="mt-1 text-xs text-sale">{errors.subject}</p>
+            )}
           </div>
+
           <div>
-            <label className="text-xs font-bold uppercase tracking-widest text-muted">Message</label>
+            <label className="text-xs font-bold uppercase tracking-widest text-muted">
+              Message
+            </label>
             <textarea
               rows={4}
               className="input-underline resize-none"
               value={form.message}
               onChange={(e) => set('message', e.target.value)}
             />
-            {errors.message && <p className="mt-1 text-xs text-sale">{errors.message}</p>}
+            {errors.message && (
+              <p className="mt-1 text-xs text-sale">{errors.message}</p>
+            )}
           </div>
 
           <button

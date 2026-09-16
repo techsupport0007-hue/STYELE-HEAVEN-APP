@@ -76,7 +76,7 @@ function ProductsPageInner() {
           {category || 'All Products'}
         </p>
         <h1 className="mt-1 font-serif text-3xl md:text-4xl">
-          {q ? `Results for “${q}”` : 'The Style Heaven Collection'}
+          {q ? `Results for “${q}”` : 'The Style Haven Collection'}
         </h1>
         <p className="mt-2 text-sm text-muted">{state.total} products</p>
         {q && (

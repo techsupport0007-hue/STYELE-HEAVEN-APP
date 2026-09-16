@@ -14,7 +14,7 @@ const FOOTWEAR = [
   { uk: '11', eu: '45', cm: '30.5' },
 ];
 
-export const metadata = { title: 'Size Guide — Style Heaven' };
+export const metadata = { title: 'Size Guide — Style Haven' };
 
 export default function SizeGuidePage() {
   return (

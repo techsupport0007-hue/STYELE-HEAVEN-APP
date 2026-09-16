@@ -18,7 +18,12 @@ const addressSchema = new mongoose.Schema(
 
 const userSchema = new mongoose.Schema(
   {
-    name: { type: String, required: true, trim: true },
+    name: {
+      type: String,
+      required: true,
+      trim: true,
+    },
+
     email: {
       type: String,
       required: true,
@@ -27,13 +32,49 @@ const userSchema = new mongoose.Schema(
       trim: true,
       match: /^\S+@\S+\.\S+$/,
     },
-    passwordHash: { type: String, required: true, select: false },
-    phone: { type: String, match: /^[6-9]\d{9}$/ },
+
+    passwordHash: {
+      type: String,
+      required: true,
+      select: false,
+    },
+
+    phone: {
+      type: String,
+      match: /^[6-9]\d{9}$/,
+    },
+
+    // Secure password reset token hash.
+    // The actual reset token is never stored in the database.
+    passwordResetTokenHash: {
+      type: String,
+      select: false,
+    },
+
+    // Password reset token expiry time.
+    passwordResetExpires: {
+      type: Date,
+      select: false,
+    },
+
     addresses: [addressSchema],
-    wishlist: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Product' }],
-    role: { type: String, enum: ['customer', 'merchant', 'admin'], default: 'customer' },
+
+    wishlist: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Product',
+      },
+    ],
+
+    role: {
+      type: String,
+      enum: ['customer', 'merchant', 'admin'],
+      default: 'customer',
+    },
   },
-  { timestamps: true }
+  {
+    timestamps: true,
+  }
 );
 
 module.exports = mongoose.model('User', userSchema);

@@ -3,8 +3,6 @@
 import { useState } from 'react';
 import { applyPromo } from '@/lib/api';
 
-const FREE_SHIPPING_MIN = 1999;
-const SHIPPING_FEE = 100;
 
 export default function OrderSummarySidebar({ cart, promoCodes, onPromoCodesChange, onPlaceOrder, placing, canPlaceOrder, paymentMethod }) {
   const [code, setCode] = useState('');
@@ -16,7 +14,7 @@ export default function OrderSummarySidebar({ cart, promoCodes, onPromoCodesChan
   const productDiscount = mrp - offerTotal;
   const promoDiscount = promoCodes.reduce((s, p) => s + p.discount, 0);
   const subtotal = Math.max(offerTotal - promoDiscount, 0);
-  const delivery = subtotal >= FREE_SHIPPING_MIN ? 0 : SHIPPING_FEE;
+  const delivery = 0;
   const total = subtotal + delivery;
 
   async function handleApply() {

@@ -1,4 +1,4 @@
-# Style Heaven (6) — Bug Fix & Product Image Update
+# Style Haven (6) — Bug Fix & Product Image Update
 
 ## Product images
 

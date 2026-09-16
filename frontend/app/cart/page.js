@@ -3,8 +3,6 @@
 import { useEffect, useState } from 'react';
 import { readCart, writeCart } from '@/lib/useCartCount';
 
-const FREE_SHIPPING_MIN = 1999;
-const SHIPPING_FEE = 100;
 
 export default function CartPage() {
   const [cart, setCart] = useState([]);
@@ -32,7 +30,7 @@ export default function CartPage() {
   const mrp = cart.reduce((s, i) => s + i.price * i.qty, 0);
   const offerTotal = cart.reduce((s, i) => s + (i.offerPrice ?? i.price) * i.qty, 0);
   const discount = mrp - offerTotal;
-  const delivery = offerTotal >= FREE_SHIPPING_MIN || cart.length === 0 ? 0 : SHIPPING_FEE;
+  const delivery = 0;
   const total = offerTotal + delivery;
 
   if (!loaded) return null;

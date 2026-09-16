@@ -25,7 +25,7 @@ export default function MerchantLoginPage() {
 
   return (
     <div className="mx-auto max-w-sm px-4 py-16">
-      <p className="text-xs font-bold uppercase tracking-widest text-muted">Style Heaven B2B</p>
+      <p className="text-xs font-bold uppercase tracking-widest text-muted">Style Haven B2B</p>
       <h1 className="mt-2 font-serif text-3xl text-ink">Merchant login</h1>
       <p className="mt-2 text-sm text-muted">For approved business sourcing partners.</p>
 

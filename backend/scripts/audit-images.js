@@ -53,7 +53,7 @@ function buildGeneratedProducts(perCategory = 40) {
 }
 
 async function auditCatalogImages() {
-  console.log('--- Auditing Style Heaven Catalog Images ---');
+  console.log('--- Auditing Style Haven Catalog Images ---');
   seedCounter = 100;
   const all = [...products, ...buildGeneratedProducts(40)];
   console.log(`Total products in catalog: ${all.length}`);

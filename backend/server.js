@@ -94,7 +94,7 @@ let server;
 
 connectDB()
   .then(() => {
-    server = app.listen(PORT, () => console.log(`Style Heaven API running at http://localhost:${PORT}`));
+    server = app.listen(PORT, () => console.log(`Style Haven API running at http://localhost:${PORT}`));
   })
   .catch((err) => {
     console.error('Failed to connect to MongoDB:', err.message);

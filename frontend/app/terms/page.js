@@ -1,9 +1,9 @@
-export const metadata = { title: 'Terms of Service — Style Heaven' };
+export const metadata = { title: 'Terms of Service — Style Haven' };
 
 const SECTIONS = [
   {
     title: 'Using this site',
-    body: 'By placing an order on Style Heaven you confirm the information you provide — contact details, shipping address and payment details — is accurate and belongs to you or someone who has authorised you to use it.',
+    body: 'By placing an order on Style Haven you confirm the information you provide — contact details, shipping address and payment details — is accurate and belongs to you or someone who has authorised you to use it.',
   },
   {
     title: 'Pricing and offers',

@@ -1,4 +1,4 @@
-# Style Heaven — Merchant Onboarding & Operating Rules
+# Style Haven — Merchant Onboarding & Operating Rules
 
 ## Who can apply
 - Fashion retailers
@@ -26,7 +26,7 @@
 4. Counterfeit, prohibited, misleading or unlawfully supplied goods are not permitted.
 5. Prices, descriptions, sizes, fabric information and fulfilment commitments must be kept accurate.
 6. Merchant must follow agreed order, support, return/claim and settlement procedures.
-7. Style Heaven may request additional documents before activation or during periodic review.
+7. Style Haven may request additional documents before activation or during periodic review.
 8. Accounts may be suspended while verification, quality, compliance or transaction concerns are investigated.
 
 ## Approval flow
